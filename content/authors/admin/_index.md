@@ -15,17 +15,17 @@ role: Functional Imaging of Naturalistic Neuroscience
 # Organizations/Affiliations
 organizations:
 - name: Psychological & Brain Sciences
-  url: "http://pbs.dartmouth.edu"
+  url: "https://pbs.dartmouth.edu"
   
 - name: Dartmouth College
-  url: "www.dartmouth.edu"
+  url: "https://www.dartmouth.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - functional neuroimaging
-- cognitive and social psychology
+- cognitive, social psychology
 - individual differences
 
 education:
