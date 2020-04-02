@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Finn Lab
+name: FINN Lab
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Psychological & Brain Sciences
+role: Functional Imaging of Naturalistic Neuroscience
 
 # Organizations/Affiliations
 organizations:
 - name: Dartmouth College
   url: ""
+  
+- name: Psychological & Brain Sciences
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
