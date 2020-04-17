@@ -1,7 +1,7 @@
 
 ---
 # Display name
-name: Clare Grall
+name: Clare Grall, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution:
-    year: 
+  - course: PhD, Communications
+    institution: Michigan State University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
