@@ -4,7 +4,7 @@ name: Emily S. Finn, PhD
 
 # Username (this should match the folder name)
 authors:
-- emily
+- a_emily
 
 # Is this the primary user of the site?
 superuser: false
