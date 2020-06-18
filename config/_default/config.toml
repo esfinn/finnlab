@@ -40,6 +40,35 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
+  
+### copied from https://github.com/tobiasgerstenberg/homepage/blob/master/config.toml  
+  
+[[menu.main]]
+	name = "Home"
+	url = "#home"
+	weight = 1
+
+#[[menu.main]]
+	#name = "News"
+	#url = "#news"
+	#weight = 2
+
+[[menu.main]]
+	name = "People"
+	url = "#people"
+	weight = 3
+
+[[menu.main]]
+	name = "Publications"
+	url = "#publications_selected"
+	weight = 4
+
+[[menu.main]]
+	name = "Collaborators"
+	url = "#collaborators"
+	weight = 5
+  
+#### end of copied section
 
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]
