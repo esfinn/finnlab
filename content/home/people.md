@@ -10,6 +10,8 @@ weight = 3  # Order that this section will appear.
 title = "People"
 subtitle = ""
 
+[content]
+
 [[member]]
 	id = "Emily S. Finn"
 	position = "Principal investigator"
