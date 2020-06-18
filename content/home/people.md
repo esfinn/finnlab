@@ -46,18 +46,18 @@ subtitle = ""
 
 
 
-[content]
+# [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Lab members",
+#  user_groups = ["Lab members",
                  "Alumni"]
 
-[design]
+# [design]
   # Show user's social networking links? (true/false)
-  show_social = true
+#  show_social = true
   
   # Show user's interests? (true/false)
-  show_interests = true
+#  show_interests = true
 
 [design.background]
   # Apply a background color, gradient, or image.
