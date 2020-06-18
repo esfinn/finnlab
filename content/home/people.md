@@ -10,6 +10,42 @@ weight = 68  # Order that this section will appear.
 title = "People"
 subtitle = ""
 
+[[member]]
+	id = "Emily S. Finn"
+	position = "Principal investigator"
+	image = ""
+	email = "emily.s.finn@dartmouth.edu"
+	twitter = "esfinn"
+	github = "esfinn"
+	scholar = "citations?user=95oJGacAAAAJ&hl=en&oi=ao"
+	cv = "finn_cv.pdf"
+	website = "esfinn.github.io"
+	description = "Emily is an assistant professor in the Department of Psychological and Brain Sciences at Dartmouth College. She completed her Ph.D. in neuroscience at Yale, and her postdoctoral training at the National Institute of Mental Health. Before that, she received a B.A. in linguistics, also from Yale. Emily’s work is focused on individual variability in brain activity and behavior, especially as it relates to appraisal of ambiguous information under naturalistic conditions. When not science-ing, she can often be found doing something outdoors-y, playing guitar (poorly), or trying to work up the motivation to exercise."
+
+[[member]]
+	id = "Clare Grall"
+	position = "Postdoc"
+    image = ""
+	email = ""
+	github = ""
+	cv = ""
+	website = ""
+	description = "Lorem ipsum"
+
+
+[[member]]
+	id = "Clara Sava-Segal"
+	position = "PhD student"
+	image = ""
+	email = ""
+	scholar = ""
+	cv = ""
+	website = ""
+	description = "Lorem ipsum"
+
+
+
+
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
